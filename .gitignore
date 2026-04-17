@@ -4,6 +4,9 @@
 *-backups/
 fp-info-cache
 
+# PCB layout files (students should only see schematic)
+*.kicad_pcb
+
 # Rescue backup (optional - remove this line if you want to track backups)
 rescue-backup/
 
